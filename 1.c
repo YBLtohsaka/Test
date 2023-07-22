@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main()
 {
-	printf("hehe");
- } 
+	printf("hello world");
+} 
